@@ -1,2 +1,2 @@
 # Python Practice
- w/JpyceGem
+Its me and Joyce Gem 
